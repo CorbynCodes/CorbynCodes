@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Corbyn Ledbetter</h1>
 <h3 align="center">I am a passionate Software Engineer Intern</h3>
 
-<p align="left"> <a href="https://twitter.com/pacodesu" target="blank"><img src="https://img.shields.io/twitter/follow/pacodesu?logo=twitter&style=for-the-badge" alt="pacodesu" /></a> </p>
 
 - 💬 Ask me about **C++, GO, Python**
 
